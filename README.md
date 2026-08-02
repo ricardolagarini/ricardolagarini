@@ -16,10 +16,7 @@ Currently
 
 Learning more about [tópico atual] and building [projeto atual].
 
-📍 Porto, Portugal   ✉️ ricardopacia@hotmail.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0033?style=for-the-badge&logo=linkedin&logoColor=7FDBFF)]([https://linkedin.com/in/teu-perfil](https://www.linkedin.com/in/ripafernandes))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0033?style=for-the-badge&logo=linkedin&logoColor=7FDBFF)](https://www.linkedin.com/in/ripafernandes)
+[![Email](https://img.shields.io/badge/Email-0B0033?style=for-the-badge&logo=gmail&logoColor=7FDBFF)](mailto:ricardopacia@hotmail.com)
 
-
-![CI](https://github.com/ricardolagarini/data-platform/actions/workflows/ci.yml/badge.svg)
-![Terraform](https://github.com/user/repo/actions/workflows/tf-plan.yml/badge.svg)
 [![CI](https://github.com/ricardolagarini/data-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/ricardolagarini/data-platform/actions/workflows/ci.yml)

@@ -1,16 +1,19 @@
-## Hi there 👋
+Ricardo Fernandes
 
-<!--
-**ricardolagarini/ricardolagarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure and data engineering. I build the pipelines that move data and the systems that keep them running.
 
-Here are some ideas to get you started:
+What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Infra & DevOps — Docker, Terraform, CI/CD, Linux, Bash
+Data — Python, SQL, Airflow, dbt
+Cloud — AWS / Azure 
+
+What I care about
+
+Reproducible environments, pipelines that fail loudly instead of silently, and infrastructure described in code rather than in someone's memory.
+
+Currently
+
+Learning more about [tópico atual] and building [projeto atual].
+
+📍 Porto, Portugal · 💼 https://www.linkedin.com/in/ripafernandes/ · ✉️ ricardopacia@hotmail.com

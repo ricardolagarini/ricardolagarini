@@ -16,7 +16,7 @@ Currently
 
 Learning more about [tópico atual] and building [projeto atual].
 
-📍 Porto, Portugal ·  ✉️ ricardopacia@hotmail.com
+📍 Porto, Portugal   ✉️ ricardopacia@hotmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0033?style=for-the-badge&logo=linkedin&logoColor=7FDBFF)]([https://linkedin.com/in/teu-perfil](https://www.linkedin.com/in/ripafernandes))
 
 

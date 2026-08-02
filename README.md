@@ -1,4 +1,4 @@
-Ricardo Fernandes
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1a1a,100:326CE5&text=Ricardo%20Fernandes&fontColor=ffffff&fontSize=42)
 
 Infrastructure and data engineering. I build the pipelines that move data and the systems that keep them running.
 
@@ -18,4 +18,7 @@ Learning more about [tópico atual] and building [projeto atual].
 
 📍 Porto, Portugal ·  ✉️ ricardopacia@hotmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0033?style=for-the-badge&logo=linkedin&logoColor=7FDBFF)]([https://linkedin.com/in/teu-perfil](https://www.linkedin.com/in/ripafernandes))
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1a1a,100:326CE5&text=Ricardo%20Lagarini&fontColor=ffffff&fontSize=42)
+
+
+![CI](https://github.com/user/repo/actions/workflows/ci.yml/badge.svg)
+![Terraform](https://github.com/user/repo/actions/workflows/tf-plan.yml/badge.svg)

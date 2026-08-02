@@ -16,8 +16,7 @@ Currently
 
 Learning more about [tópico atual] and building [projeto atual].
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0033?style=for-the-badge&logo=linkedin&logoColor=7FDBFF)](https://www.linkedin.com/in/ripafernandes)
-
 [![Email](https://img.shields.io/badge/Email-0B0033?style=for-the-badge&logo=gmail&logoColor=7FDBFF)](mailto:ricardopacia@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0033?style=for-the-badge&logo=linkedin&logoColor=7FDBFF)](https://www.linkedin.com/in/ripafernandes)
 
 [![CI](https://github.com/ricardolagarini/data-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/ricardolagarini/data-platform/actions/workflows/ci.yml)

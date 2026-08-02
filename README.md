@@ -22,3 +22,4 @@ Learning more about [tópico atual] and building [projeto atual].
 
 ![CI](https://github.com/ricardolagarini/data-platform/actions/workflows/ci.yml/badge.svg)
 ![Terraform](https://github.com/user/repo/actions/workflows/tf-plan.yml/badge.svg)
+[![CI](https://github.com/ricardolagarini/data-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/ricardolagarini/data-platform/actions/workflows/ci.yml)

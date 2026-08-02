@@ -16,5 +16,6 @@ Currently
 
 Learning more about [tópico atual] and building [projeto atual].
 
-📍 Porto, Portugal · 💼 https://www.linkedin.com/in/ripafernandes/ · ✉️ ricardopacia@hotmail.com
+📍 Porto, Portugal ·  ✉️ ricardopacia@hotmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0033?style=for-the-badge&logo=linkedin&logoColor=7FDBFF)]([https://linkedin.com/in/teu-perfil](https://www.linkedin.com/in/ripafernandes))
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1a1a,100:326CE5&text=Ricardo%20Lagarini&fontColor=ffffff&fontSize=42)
